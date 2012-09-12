@@ -1,4 +1,4 @@
-pocketrocket
+Pocket Rocket
 ============
 
-A small canvas based HTML game developed for the js13kGames competition
+A small canvas based HTML game developed for the js13kGames competition.
