@@ -28,3 +28,10 @@ Tested under:
 - Safari 5
 - iPhone 4+ (add to home screen to play in fullscreen)
 - iPad 2+
+
+Credits
+-------
+- Design, idea: Zoltán Szalay (<a href="https://twitter.com/insgraphizm">@insgraphizm</a>)
+- Development: Péter Schmíz (<a href="https://twitter.com/pety7439">@pety7439</a>)
+- Sound FX lib: jsfxr - https://github.com/mneubrand/jsfxr - Markus Neubrand
+- Sound FX generated with http://www.superflashbros.net/as3sfxr/
