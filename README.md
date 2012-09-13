@@ -4,6 +4,7 @@ POCKETROCKET
 ============
 
 Instructions
+------------
 - You are PocketRocket, choose one of the 4 rockets (Pocket, Tank, Elroy and Liz)
 - Don’t cross your beamline (unless you have a shield)
 - Collect all blue gems to open the wormhole
