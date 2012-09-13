@@ -1,4 +1,4 @@
-&lt;p&gt; and ins proudly presents a game for the js13kgames.com game competition
+&lt;p&gt; and ins proudly presents a game for the <a href="http://js13kgames.com/" target="_blank">js13kgames.com</a> game competition
 
 POCKETROCKET
 ============
@@ -31,7 +31,7 @@ Tested under:
 
 Credits
 -------
-- Design, idea: Zoltán Szalay (<a href="https://twitter.com/insgraphizm">@insgraphizm</a>)
-- Development: Péter Schmíz (<a href="https://twitter.com/pety7439">@pety7439</a>)
+- Design, idea: Zoltán Szalay (<a href="https://twitter.com/insgraphizm" target="_blank">@insgraphizm</a>)
+- Development: Péter Schmíz (<a href="https://twitter.com/pety7439" target="_blank">@pety7439</a>)
 - Sound FX lib: jsfxr - https://github.com/mneubrand/jsfxr - Markus Neubrand
 - Sound FX generated with http://www.superflashbros.net/as3sfxr/
