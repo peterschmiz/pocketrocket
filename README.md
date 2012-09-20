@@ -36,3 +36,5 @@ Credits
 - Development: Péter Schmíz (<a href="https://twitter.com/pety7439" target="_blank">@pety7439</a>)
 - Sound FX lib: jsfxr - https://github.com/mneubrand/jsfxr - Markus Neubrand
 - Sound FX generated with http://www.superflashbros.net/as3sfxr/
+
+This content is released under the (<a href="http://opensource.org/licenses/mit-license.php" target="_blank">http://opensource.org/licenses/mit-license.php</a>) MIT License.
